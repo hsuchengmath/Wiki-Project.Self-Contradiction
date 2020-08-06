@@ -1,7 +1,7 @@
 # Wiki-Project.Self-Contradiction
 
 
-![alt text](https://github.com/hsuchengmath/Wiki-Project.Self-Contradiction/blob/master/RetaGNN-NLP.png)
+![alt text](https://github.com/hsuchengmath/Wiki-Project.Self-Contradiction/blob/master/RetaGNN-NLP.png =80%x)
 
 Usages
 ------
