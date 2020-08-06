@@ -12,7 +12,7 @@ Usages
     python3 process_3.py 
     python3 process_4.py 
     where process_1.py,process_2.py are data process. (need 20 minate)
-          + process_3.py is the graph construction (need 2 hour)
+          + process_3.py is the graph construction (need 5 hour)
           + process_4.py is training model and evaluation.
 
 
