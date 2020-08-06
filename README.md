@@ -1,7 +1,7 @@
 # Wiki-Project.Self-Contradiction
 
 
-![alt text](https://github.com/hsuchengmath/Wiki-Project.Self-Contradiction/blob/master/RetaGNN-NLP.png width = "300" height = "200")
+![alt text](https://github.com/hsuchengmath/Wiki-Project.Self-Contradiction/blob/master/RetaGNN-NLP2.png )
 
 Usages
 ------
