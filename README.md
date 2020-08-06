@@ -1,0 +1,1 @@
+# Wiki-Project.Self-Contradiction
