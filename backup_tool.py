@@ -276,7 +276,7 @@ import torch.optim as optim
 
 def Train_Eval_Process_Layer(train_X,train_Y,test_X,test_Y):
     # LSTM
-    epoch_num = 10
+    epoch_num = 25
     #model = LSTM_model(input_dim=8,hidden_dim=8)
     model = Self_Attention_Layer(input_dim=8,hidden_dim=8,muti_head_num=3)
     optimizer = optim.Adam(model.parameters())
@@ -396,7 +396,7 @@ def Train_Eval_Process_Layer_v2(train_X,train_Y,test_X,test_Y,node_num,test_X_te
     # RetaGNN + Self Attention
     import pyprind
     import pickle
-    epoch_num =10
+    epoch_num =25
     input_dim = 8
     hidden_dim = 8
     model = RetaGNN_SA_Model(input_dim,hidden_dim,node_num)
